@@ -1,10 +1,11 @@
-# Desenvolvimento de um Site Responsivo com HTML, CSS e Bootstrap
+
+#Desenvolvimento de um Site Responsivo com HTML, CSS e Bootstrap
 Bem-vindo ao repositório do projeto "Site Responsivo com HTML, CSS e Bootstrap". Este documento detalha o processo de desenvolvimento do site, explicando as tecnologias utilizadas, as etapas do desenvolvimento e os desafios enfrentados.
 
-Visão Geral do Projeto
+#Visão Geral do Projeto
 Este projeto é a conclusão do curso de Desenvolvimento Web, onde construí um site totalmente responsivo utilizando HTML, CSS e Bootstrap. O objetivo principal foi criar uma aplicação web moderna, acessível e funcional em diversos dispositivos, aplicando os conceitos e técnicas aprendidos ao longo do curso.
 
-Tecnologias Utilizadas
+#Tecnologias Utilizadas
 HTML5: Utilizado para a estruturação semântica do conteúdo.
 CSS3: Utilizado para a estilização do site, incluindo layout, tipografia, cores e efeitos visuais.
 Bootstrap: Framework front-end utilizado para garantir a responsividade e acelerar o desenvolvimento com componentes pré-construídos e sistema de grid.
@@ -12,7 +13,7 @@ Estrutura do Projeto
 1. HTML (HyperText Markup Language)
 O HTML foi utilizado para criar a estrutura do site. A marcação semântica foi seguida rigorosamente para garantir acessibilidade e otimização para motores de busca (SEO). As principais seções do site incluem:
 
-Header: Contém o logotipo e a barra de navegação.
+#Header: Contém o logotipo e a barra de navegação.
 Nav: Navegação principal estruturada com listas não ordenadas.
 Main: Área principal do conteúdo, dividida em seções e artigos.
 Footer: Informações de contato e links para redes sociais.
@@ -40,23 +41,23 @@ Processo de Desenvolvimento
 Planejamento
 O projeto começou com a definição dos objetivos e escopo do site. Um wireframe foi criado para delinear a estrutura básica e o layout do site.
 
-Estruturação com HTML
+#Estruturação com HTML
 A estrutura do site foi construída com HTML5, seguindo práticas semânticas para garantir acessibilidade e SEO. A estrutura básica foi criada com seções bem definidas (<header>, <main>, <footer>) e elementos adicionais para melhorar a semântica do conteúdo.
 
-Estilização com CSS
+#Estilização com CSS
 Com a estrutura em place, o próximo passo foi a estilização utilizando CSS3. Foram aplicadas técnicas avançadas como Flexbox e Grid Layout para criar um design responsivo e flexível. Animações e transições foram adicionadas para melhorar a interatividade.
 
-Integração com Bootstrap
+#Integração com Bootstrap
 O Bootstrap foi integrado para acelerar o desenvolvimento e garantir a responsividade. O sistema de grid do Bootstrap foi utilizado para a criação do layout, e componentes UI como botões, cards e formulários foram incorporados e personalizados conforme necessário.
 
-Testes e Ajustes
+#Testes e Ajustes
 Testes rigorosos foram realizados em diferentes navegadores e dispositivos para garantir a compatibilidade e a responsividade do site. Ajustes foram feitos para resolver problemas de cross-browser compatibility e garantir uma experiência de usuário consistente.
 
-Desafios e Soluções
+#Desafios e Soluções
 Compatibilidade entre Navegadores
 Garantir que o site funcionasse corretamente em diferentes navegadores foi um dos principais desafios. Foram realizadas as seguintes ações:
 
-Desenvolvimento Progressivo: Funcionalidades básicas foram garantidas em todos os navegadores, com melhorias graduais aplicadas conforme o suporte do navegador.
+#Desenvolvimento Progressivo: Funcionalidades básicas foram garantidas em todos os navegadores, com melhorias graduais aplicadas conforme o suporte do navegador.
 Testes em Múltiplos Navegadores: Testes extensivos em navegadores modernos e versões anteriores para identificar e corrigir problemas.
 Fallbacks: Implementação de fallbacks para propriedades CSS não suportadas em navegadores mais antigos.
 Conclusão
