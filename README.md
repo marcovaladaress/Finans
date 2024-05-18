@@ -19,6 +19,8 @@
 + Bootstrap: Framework front-end utilizado para garantir a responsividade e acelerar o desenvolvimento com componentes pré-construídos e sistema de grid
 
 ## Estrutura do Projeto 
+
+## HTML (HyperText Markup Language)
 #### O HTML foi utilizado para criar a estrutura do site. A marcação semântica foi seguida rigorosamente para garantir acessibilidade e otimização para motores de busca (SEO). As principais seções do site incluem:
 
 + Header: Contém o logotipo e a barra de navegação.
